@@ -7792,7 +7792,6 @@ https://codesuppository.blogspot.com/feeds/posts/default
 https://codetheory.in/atom
 https://codethoughts.io/atom.xml
 https://codethrasher.com/index.xml
-https://codewithbeto.dev/rss.xml
 https://codewithcory.com/rss.xml
 https://codewithhugo.com/index.xml
 https://codewithkira.com/atom.xml
